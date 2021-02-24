@@ -18,7 +18,7 @@
 
 [Confluence](https://searchengine.atlassian.net/wiki/home?ep_click_type=primary)
 
-
+[Crawler Side Tickets](https://searchengine.atlassian.net/jira/software/projects/CS/boards/1)
 
 ## Main Code
 
@@ -30,7 +30,15 @@
 
 [Query-Side System](https://github.com/AnishGRao/query-side)
 
+[HW] [Parser](https://github.com/epfeiffe/html-parser)
 
+(Not Used) [Parser 2nd Impl](https://github.com/AnishGRao/Search_Engine/branches)
+
+[HW4] [HTTP](https://github.com/wolfm/440_hw4)
+
+[HW4] (Not Used) [HTTP 2nd Impl](https://github.com/Zackhardtoname/440_eecs_hw4_https)
+
+(perhaps follows more closely with Hamilton's code in slides)
 
 ## Others
 
